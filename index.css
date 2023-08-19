@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+    border: none;
+}
+.nav{
+    color: white;
+}
+.button-add-student{
+    background-color: white;
+    width: 300px;
+}
+.button-search{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+.body1-1{
+    display: flex;
+    flex-direction: row;
+    grid-template-rows: 500px;
+
+}
